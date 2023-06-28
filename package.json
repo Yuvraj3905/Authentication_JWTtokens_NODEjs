@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Yuvraj3905/Authentication_JWTtokens_NODEjs#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
   }
 }
