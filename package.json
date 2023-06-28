@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Yuvraj3905/Authentication_JWTtokens_NODEjs/issues"
   },
-  "homepage": "https://github.com/Yuvraj3905/Authentication_JWTtokens_NODEjs#readme"
+  "homepage": "https://github.com/Yuvraj3905/Authentication_JWTtokens_NODEjs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
